@@ -90,11 +90,11 @@ In my free time:
 <br>
 
 <div align="center">
-  <a href="https://example.com/taxi-manager" target="_blank" style="text-decoration: none;">
-    <div style="border: 2px solid #008CBA; padding: 20px; border-radius: 10px; background-color: #f1f1f1; width: 400px; margin: 10px;">
+  <a href="https://github.com/karenlizbeth03/Taxi-Manager" target="_blank" style="text-decoration: none;">
+    <div style="border: 2px solid #008CBA; padding: 20px; border-radius: 10px; background-color: #ffffff; width: 400px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #008CBA;">Taxi Manager</h3>
       <p style="color: #333;">Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.</p>
-      <img src="img/Taxi.png" alt="Taxi Manager" width="100%" style="border-radius: 10px;"/>
+      <img src="img/Taxi.png" alt="Taxi Manager" width="80%" style="border-radius: 10px;"/>
     </div>
   </a>
 </div>
@@ -103,10 +103,10 @@ In my free time:
 
 <div align="center">
   <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank" style="text-decoration: none;">
-    <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; background-color: #f1f1f1; width: 400px; margin: 10px;">
+    <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; background-color: #ffffff; width: 400px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #4CAF50;">Karvin Curtiduria</h3>
       <p style="color: #333;">Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.</p>
-      <img src="img/Karvin.png" alt="Karvin Curtiduria" width="100%" style="border-radius: 10px;"/>
+      <img src="img/Karvin.png" alt="Karvin Curtiduria" width="80%" style="border-radius: 10px;"/>
     </div>
   </a>
 </div>
@@ -115,10 +115,10 @@ In my free time:
 
 <div align="center">
   <a href="https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-" target="_blank" style="text-decoration: none;">
-    <div style="border: 2px solid #FF5733; padding: 20px; border-radius: 10px; background-color: #f1f1f1; width: 400px; margin: 10px;">
+    <div style="border: 2px solid #FF5733; padding: 20px; border-radius: 10px; background-color: #ffffff; width: 400px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #FF5733;">Web application for Certificate Management (FrontEnd)</h3>
       <p style="color: #333;">Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates.</p>
-      <img src="img/Certech.png" alt="Web application for Certificate Management (FrontEnd)" width="100%" style="border-radius: 10px;"/>
+      <img src="img/Certech.png" alt="Web application for Certificate Management (FrontEnd)" width="80%" style="border-radius: 10px;"/>
     </div>
   </a>
 </div>
@@ -126,7 +126,7 @@ In my free time:
 
 <br>
 
-<div align='left'>
+<div align='center'>
 
 <ul>
 
