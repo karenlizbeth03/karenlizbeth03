@@ -30,14 +30,13 @@ In my free time:
 
 🔍 I consider every day an opportunity to learn something new and explore technological advances. I am excited to continue growing on this exciting technological journey and provide creative solutions to future challenges!
 
-## 🛠 &nbsp;Tech Stack
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
 
--### **Languages**:
+### **Languages**:
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,7 +59,7 @@ In my free time:
 ![Ionic](https://img.shields.io/badge/Ionic%20-%234A8FFF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-### **Databases**:
+###**Databases**:
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,15 +67,13 @@ In my free time:
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-    
-<br>
 
-- **Softwares and Tools**:
+###**Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
 
@@ -119,7 +116,7 @@ In my free time:
 
 <li>
 <a href="https://www.linkedin.com/in/karen-moyolema-871013224/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  KarenMoyolema-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -127,7 +124,7 @@ In my free time:
 
 <li>
 <a href="https://www.facebook.com/karen.moyolema.71" target="_blank">
-<img src="https://img.shields.io/badge/facebook:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/facebook:  KarenMoyolema-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -135,7 +132,7 @@ In my free time:
 
 <li>
 <a href="https://www.instagram.com/karen_lizbeth25/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram:  KarenMoyolema-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -162,6 +159,3 @@ In my free time:
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
