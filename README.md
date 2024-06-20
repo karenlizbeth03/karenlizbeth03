@@ -91,7 +91,10 @@ In my free time:
 <br>
 
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+<a href="https://github.com/karenlizbeth03">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karenlizbeth03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karenlizbeth03&layout=compact&langs_count=8&theme=algolia"/>
+</a>username&show_icons=true&theme=radical)
 
 </a>
 </div>
