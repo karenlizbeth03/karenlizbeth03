@@ -15,15 +15,24 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+# Let me introduce myself
 
-<br>
+I'm a software engineer passionate about creating impactful digital experiences. My specialty lies in frontend development, but I also have solid experience in backend development. Additionally, I have ventured into interface design and have a broad knowledge base that includes networks, databases, and the creation of mobile and web applications.
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+In my free time, I explore emerging fields as personal projects that challenge my skills and knowledge. I also enjoy playing soccer, which keeps me active and alert.
+
+I consider every day an opportunity to learn something new and explore technological advances. I am excited to continue growing on this exciting technological journey and provide creative solutions to future challenges!
+
+## Profile
+
+- 💡 I like to explore new technologies and develop software solutions.
+- 🎓 Software Engineer from the Technical University of Ambato.
+- 🌱 I'm on my way to learning more about Security and Cloud Architecture.
+- ✍️ In my free time I dedicate myself to sports and watching movies as hobbies and secondary activities.
+- 💬 Don't hesitate to contact me to work on a project.
+- 📄 Please have a look at my [Résumé](https://1drv.ms/b/s!AlybSi_bVGVMgqYEiHfeMmVOQzkheA?e=oCN0M3) for more details about me. I'm open to feedback and suggestions!
+
+## 🛠 &nbsp;Tech Stack
 
 <br><br>
 
