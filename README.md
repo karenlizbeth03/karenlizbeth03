@@ -106,23 +106,36 @@ In my free time:
 -----
 
 
-### 🛠️ **Projects**
+## 🛠️ **Projects**
 <br>
 
-### [Taxi Manager](https://example.com/taxi-manager)
-Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.
-<br>
-<img src="img/Taxi.png" alt="Taxi Manager" width="400"/>
+<div align="center">
+  <a href="https://example.com/taxi-manager" style="text-decoration: none;">
+    <h3>Taxi Manager</h3>
+    <p>Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.</p>
+    <img src="img/Taxi.png" alt="Taxi Manager" width="400" style="border-radius: 10px;"/>
+  </a>
+</div>
 
-### [Karvin Curtiduria](https://dev-karvin-curtiduria.pantheonsite.io/)
-Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.
 <br>
-<img src="img/Karvin.png" alt="Karvin Curtiduria" width="400"/>
 
-### [Web application for Certificate Management (FrontEnd)](https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-)
-Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates.
+<div align="center">
+  <a href="https://dev-karvin-curtiduria.pantheonsite.io/" style="text-decoration: none;">
+    <h3>Karvin Curtiduria</h3>
+    <p>Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.</p>
+    <img src="img/Karvin.png" alt="Karvin Curtiduria" width="400" style="border-radius: 10px;"/>
+  </a>
+</div>
+
 <br>
-<img src="img/Certech.png" alt="Web application for Certificate Management (FrontEnd)" width="400"/>
+
+<div align="center">
+  <a href="https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-" style="text-decoration: none;">
+    <h3>Web application for Certificate Management (FrontEnd)</h3>
+    <p>Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates.</p>
+    <img src="img/Certech.png" alt="Web application for Certificate Management (FrontEnd)" width="400" style="border-radius: 10px;"/>
+  </a>
+</div>
 
 
 <br>
