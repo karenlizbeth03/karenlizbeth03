@@ -59,7 +59,7 @@ In my free time:
 ![Ionic](https://img.shields.io/badge/Ionic%20-%234A8FFF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-###**Databases**:
+### **Databases**:
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,7 +68,7 @@ In my free time:
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
-###**Softwares and Tools**:
+### **Softwares and Tools**:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -92,10 +92,6 @@ In my free time:
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
 </a>
 </div>
 
@@ -107,7 +103,13 @@ In my free time:
 
 <br>
 <br>
+## Projects
 
+| Project | Description | Image |
+|---------|-------------|-------|
+| [Taxi Manager](https://example.com/taxi-manager) | Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability. | ![Taxi Manager](img/Taxi.png) |
+| [Karvin Curtiduria](https://dev-karvin-curtiduria.pantheonsite.io/) | Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform. | ![Karvin Curtiduria](img/Karvin.png) |
+| [Web application for Certificate Management (FrontEnd)](https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-) | Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates. | ![Web application for Certificate Management (FrontEnd)](img/Certech,png) |
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
