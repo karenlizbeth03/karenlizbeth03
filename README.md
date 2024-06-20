@@ -158,7 +158,9 @@ In my free time:
 
 <li>
 <a href="https://www.instagram.com/karen_lizbeth25/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  KarenMoyolema-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=instagram style="margin-bottom: 5px;" />
+   <img src="https://img.shields.io/badge/Instagram: KarenMoyolema-DDA0DD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="margin-bottom: 5px;" />
+</a>
+
 </a>
 </li>
 	
