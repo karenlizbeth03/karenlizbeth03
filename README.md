@@ -92,7 +92,7 @@ In my free time:
 <td width="50%">
   <h3 align="center">Karvin Curiduria</h3>
   <div align="center">
-    <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank"><img src="img/projects/EasyFact.svg" width="400" alt="EasyFact"></a>
+    <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank"><img src="img/Karvin.png" width="400" alt="EasyFact"></a>
     <p>
       <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank">
         <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -131,7 +131,7 @@ In my free time:
     <p>Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.</p>
   </div>                
 </td>
-
+</table> 
 
 
 <br>
