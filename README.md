@@ -91,6 +91,7 @@ In my free time:
 <br>
 
 <div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 </a>
 </div>
@@ -123,7 +124,7 @@ Development of a FrontEnd Web Application for Certificate Management - This proj
 
 
 <br>
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b><img 
 <br>
 <div align='left'>
 
