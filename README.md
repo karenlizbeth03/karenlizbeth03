@@ -92,7 +92,7 @@ In my free time:
 <td width="50%">
   <h3 align="center">Karvin Curiduria</h3>
   <div align="center">
-    <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank"><img src="img/Karvin.png" width="400" alt="EasyFact"></a>
+    <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank"><img src="img/Logo.png" width="400" alt="EasyFact"></a>
     <p>
       <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank">
         <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -122,7 +122,7 @@ In my free time:
 <td width="50%">
   <h3 align="center">Taxi Manager</h3>
   <div align="center">
-    <a href="https://github.com/karenlizbeth03/Taxi-Manager" target="_blank"><img src="imgTaxi.png" width="400" alt="Taxi"></a>
+    <a href="https://github.com/karenlizbeth03/Taxi-Manager" target="_blank"><img src="img/Taxi.png" width="400" alt="Taxi"></a>
     <p>
       <a href="https://github.com/karenlizbeth03/Taxi-Manager" target="_blank">
         <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
