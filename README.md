@@ -86,54 +86,40 @@ In my free time:
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-<a href="https://github.com/karenlizbeth03">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karenlizbeth03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karenlizbeth03&layout=compact&langs_count=8&theme=algolia"/>
-</a>username&show_icons=true&theme=radical)
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-
 ## 🛠️ **Projects**
 <br>
 
 <div align="center">
-  <a href="https://example.com/taxi-manager" style="text-decoration: none;">
-    <h3>Taxi Manager</h3>
-    <p>Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.</p>
-    <img src="img/Taxi.png" alt="Taxi Manager" width="400" style="border-radius: 10px;"/>
+  <a href="https://example.com/taxi-manager" target="_blank" style="text-decoration: none;">
+    <div style="border: 2px solid #008CBA; padding: 20px; border-radius: 10px; background-color: #f1f1f1; width: 400px; margin: 10px;">
+      <h3 style="color: #008CBA;">Taxi Manager</h3>
+      <p style="color: #333;">Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.</p>
+      <img src="img/Taxi.png" alt="Taxi Manager" width="100%" style="border-radius: 10px;"/>
+    </div>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://dev-karvin-curtiduria.pantheonsite.io/" style="text-decoration: none;">
-    <h3>Karvin Curtiduria</h3>
-    <p>Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.</p>
-    <img src="img/Karvin.png" alt="Karvin Curtiduria" width="400" style="border-radius: 10px;"/>
+  <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank" style="text-decoration: none;">
+    <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; background-color: #f1f1f1; width: 400px; margin: 10px;">
+      <h3 style="color: #4CAF50;">Karvin Curtiduria</h3>
+      <p style="color: #333;">Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.</p>
+      <img src="img/Karvin.png" alt="Karvin Curtiduria" width="100%" style="border-radius: 10px;"/>
+    </div>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-" style="text-decoration: none;">
-    <h3>Web application for Certificate Management (FrontEnd)</h3>
-    <p>Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates.</p>
-    <img src="img/Certech.png" alt="Web application for Certificate Management (FrontEnd)" width="400" style="border-radius: 10px;"/>
+  <a href="https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-" target="_blank" style="text-decoration: none;">
+    <div style="border: 2px solid #FF5733; padding: 20px; border-radius: 10px; background-color: #f1f1f1; width: 400px; margin: 10px;">
+      <h3 style="color: #FF5733;">Web application for Certificate Management (FrontEnd)</h3>
+      <p style="color: #333;">Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates.</p>
+      <img src="img/Certech.png" alt="Web application for Certificate Management (FrontEnd)" width="100%" style="border-radius: 10px;"/>
+    </div>
   </a>
 </div>
 
@@ -176,16 +162,28 @@ In my free time:
 <br>
 
 <div align='center'>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+<a href="https://github.com/karenlizbeth03">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karenlizbeth03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karenlizbeth03&layout=compact&langs_count=8&theme=algolia"/>
+</a>username&show_icons=true&theme=radical)
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+<br>
 
 ## <b>FOLLOW YOUR DREAM✨</b>
 
 </div>
 <br>
-<br>
-<br>
-<br>
-
----
-
 <br>
 
