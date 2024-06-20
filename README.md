@@ -13,7 +13,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> #About me
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 
 ** 👋 Let me introduce myself**
 
@@ -106,7 +106,7 @@ In my free time:
 -----
 
 <br>
-🛠️ # Projects
+## 🛠️ Projects
 <br>
 
 ### [Taxi Manager](https://example.com/taxi-manager)
