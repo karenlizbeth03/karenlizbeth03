@@ -15,7 +15,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 
-** 👋 Let me introduce myself**
+**👋 Let me introduce myself**
 
 I'm a software engineer passionate about creating impactful digital experiences.
 
@@ -105,7 +105,7 @@ In my free time:
 
 -----
 
-<br>
+
 ### 🛠️ **Projects**
 <br>
 
