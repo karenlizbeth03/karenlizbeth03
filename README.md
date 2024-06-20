@@ -20,7 +20,6 @@
 I'm a software engineer passionate about creating impactful digital experiences.
 
 - 💻 **Frontend Development:** My specialty lies in creating intuitive and dynamic user interfaces.
-- 🖥️ **Backend Development:** I have solid experience in building robust and scalable server-side applications.
 - 🎨 **Interface Design:** I have ventured into design, creating visually appealing and user-friendly interfaces.
 - 🌐 **Broad Knowledge Base:** My expertise extends to networks, databases, and the creation of mobile and web applications.
 
@@ -88,40 +87,51 @@ In my free time:
 
 ## 🛠️ **Projects**
 <br>
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Karvin Curiduria</h3>
+  <div align="center">
+    <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank"><img src="img/projects/EasyFact.svg" width="400" alt="EasyFact"></a>
+    <p>
+      <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.</p>
+  </div>                
+</td>
 
-<div align="center">
-  <a href="https://github.com/karenlizbeth03/Taxi-Manager" target="_blank" style="text-decoration: none;">
-    <div style="border: 2px solid #008CBA; padding: 20px; border-radius: 10px; background-color: #ffffff; width: 400px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <h3 style="color: #008CBA;">Taxi Manager</h3>
-      <p style="color: #333;">Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.</p>
-      <img src="img/Taxi.png" alt="Taxi Manager" width="80%" style="border-radius: 10px;"/>
-    </div>
-  </a>
-</div>
+<td width="50%">
+  <br>
+  <h3 align="center">Web application for Certificate Management (FrontEnd)</h3>
+  <div align="center">
+    <a href="https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-" target="_blank"><img src="img/Certech.png" width="400" alt="CerTech"></a>
+    <br>
+    <p>
+      <a href="https://github.com/jojeda517/Certech-BackEnd" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates.</p>
+  </div>   
+</td> 
+</table>   
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Taxi Manager</h3>
+  <div align="center">
+    <a href="https://github.com/karenlizbeth03/Taxi-Manager" target="_blank"><img src="img/projects/Taxi.png" width="400" alt="taxi"></a>
+    <p>
+      <a href="https://github.com/karenlizbeth03/Taxi-Manager" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.</p>
+  </div>                
+</td>
 
-<br>
-
-<div align="center">
-  <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank" style="text-decoration: none;">
-    <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; background-color: #ffffff; width: 400px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <h3 style="color: #4CAF50;">Karvin Curtiduria</h3>
-      <p style="color: #333;">Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.</p>
-      <img src="img/Karvin.png" alt="Karvin Curtiduria" width="80%" style="border-radius: 10px;"/>
-    </div>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-" target="_blank" style="text-decoration: none;">
-    <div style="border: 2px solid #FF5733; padding: 20px; border-radius: 10px; background-color: #ffffff; width: 400px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <h3 style="color: #FF5733;">Web application for Certificate Management (FrontEnd)</h3>
-      <p style="color: #333;">Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates.</p>
-      <img src="img/Certech.png" alt="Web application for Certificate Management (FrontEnd)" width="80%" style="border-radius: 10px;"/>
-    </div>
-  </a>
-</div>
 
 
 <br>
