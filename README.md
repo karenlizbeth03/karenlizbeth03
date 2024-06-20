@@ -106,7 +106,7 @@ In my free time:
 -----
 
 <br>
-## 🛠️ Projects
+🛠️ # Projects
 <br>
 
 ### [Taxi Manager](https://example.com/taxi-manager)
