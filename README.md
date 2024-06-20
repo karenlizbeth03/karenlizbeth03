@@ -13,24 +13,22 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> #About me
 
-# Let me introduce myself
+** 👋 Let me introduce myself**
 
-I'm a software engineer passionate about creating impactful digital experiences. My specialty lies in frontend development, but I also have solid experience in backend development. Additionally, I have ventured into interface design and have a broad knowledge base that includes networks, databases, and the creation of mobile and web applications.
+I'm a software engineer passionate about creating impactful digital experiences.
 
-In my free time, I explore emerging fields as personal projects that challenge my skills and knowledge. I also enjoy playing soccer, which keeps me active and alert.
+- 💻 **Frontend Development:** My specialty lies in creating intuitive and dynamic user interfaces.
+- 🖥️ **Backend Development:** I have solid experience in building robust and scalable server-side applications.
+- 🎨 **Interface Design:** I have ventured into design, creating visually appealing and user-friendly interfaces.
+- 🌐 **Broad Knowledge Base:** My expertise extends to networks, databases, and the creation of mobile and web applications.
 
-I consider every day an opportunity to learn something new and explore technological advances. I am excited to continue growing on this exciting technological journey and provide creative solutions to future challenges!
+In my free time:
+- 🚀 **Exploring Emerging Fields:** I take on personal projects that challenge my skills and knowledge.
+- ⚽ **Playing Soccer:** This keeps me active and alert.
 
-## Profile
-
-- 💡 I like to explore new technologies and develop software solutions.
-- 🎓 Software Engineer from the Technical University of Ambato.
-- 🌱 I'm on my way to learning more about Security and Cloud Architecture.
-- ✍️ In my free time I dedicate myself to sports and watching movies as hobbies and secondary activities.
-- 💬 Don't hesitate to contact me to work on a project.
-- 📄 Please have a look at my [Résumé](https://1drv.ms/b/s!AlybSi_bVGVMgqYEiHfeMmVOQzkheA?e=oCN0M3) for more details about me. I'm open to feedback and suggestions!
+🔍 I consider every day an opportunity to learn something new and explore technological advances. I am excited to continue growing on this exciting technological journey and provide creative solutions to future challenges!
 
 ## 🛠 &nbsp;Tech Stack
 
