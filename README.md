@@ -125,10 +125,8 @@ Development of a FrontEnd Web Application for Certificate Management - This proj
 <img src="img/Certech.png" alt="Web application for Certificate Management (FrontEnd)" width="400"/>
 
 
+<br>
 
-<br>
-## src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b><img 
-<br>
 <div align='left'>
 
 <ul>
