@@ -102,14 +102,23 @@ In my free time:
 -----
 
 <br>
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/projects.png"/><b> Projects </b>
 <br>
-## Projects
+### [Taxi Manager](https://example.com/taxi-manager)
+Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.
+![Taxi Manager](img/Taxi.png)
 
-| Project | Description | Image |
-|---------|-------------|-------|
-| [Taxi Manager](https://example.com/taxi-manager) | Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability. | ![Taxi Manager](img/Taxi.png) |
-| [Karvin Curtiduria](https://dev-karvin-curtiduria.pantheonsite.io/) | Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform. | ![Karvin Curtiduria](img/Karvin.png) |
-| [Web application for Certificate Management (FrontEnd)](https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-) | Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates. | ![Web application for Certificate Management (FrontEnd)](img/Certech,png) |
+### [Karvin Curtiduria](https://dev-karvin-curtiduria.pantheonsite.io/)
+Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.
+![Karvin Curtiduria](img/Karvin.png)
+
+### [Web application for Certificate Management (FrontEnd)](https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-)
+Development of a FrontEnd Web Application for Certificate Management - This project consists of the creation of a web application for the generation and administration of certificates.
+![Web application for Certificate Management (FrontEnd)](img/Certech.png)
+
+
+
+<br>
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
