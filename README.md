@@ -95,7 +95,6 @@ In my free time:
     <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank"><img src="img/Logo.jpg" width="400" alt="Karvin"></a>
     <p>
       <a href="https://dev-karvin-curtiduria.pantheonsite.io/" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Karvin Curtiduria offers high quality tanned leather, efficiently managing production, inventory and orders through our web platform.</p>
@@ -131,6 +130,20 @@ In my free time:
     <p>Design of a distributed architecture for a taxi ride management application, with components distributed across multiple servers to improve performance and scalability.</p>
   </div>                
 </td>
+	<td width="50%">
+  <br>
+  <h3 align="center">Automated Fan System</h3>
+  <div align="center">
+    <a href="https://github.com/karenlizbeth03/Ventilador" target="_blank"><img src="img/portada.jpg" width="400" alt="Ventilador"></a>
+    <br>
+    <p>
+      <a href="https://github.com/karenlizbeth03/Ventilador" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>This project implements an automated fan and heater system controlled by a fuzzy inference system and temperature and humidity sensors.</p>
+  </div>   
+</td> 
 </table> 
 
 
