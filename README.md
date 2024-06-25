@@ -108,7 +108,7 @@ In my free time:
     <a href="https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-" target="_blank"><img src="img/Certech.png" width="400" alt="CerTech"></a>
     <br>
     <p>
-      <a href="https://github.com/jojeda517/Certech-BackEnd" target="_blank">
+      <a href="https://github.com/karenlizbeth03/Web-application-for-Certificate-Management-FrontEnd-" target="_blank">
         <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
